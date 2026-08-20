@@ -14,12 +14,17 @@ Most of my code lives in **private** repos (client products and studio IP). This
 
 ## Honig Studios GmbH
 
-Founder, Managing Director & Technical Lead · Berlin · 2010–2026 (studio closed)
+Founder, Managing Director (sole Geschäftsführer) & Technical Lead · Berlin · 2010–2026 (studio closed)
 
-Typical team ~12. Employer was Honig, never the client.
+Typical team ~12. Brands, publishers, and broadcasters were **clients**. Employer was Honig.
 
-- **Ooigo** (Sony Music, client): multi-year technical owner of a kids audiobook app. Backend APIs, Spotify / Deezer integration; replaced a heavy recommendation engine with a simple catalogue-matched grid.
-- **Lost Glitches** (Honig IP): LiveOps and store backends (Steam, Epic, web) — notifications, CMS, analytics, cross-platform auth. Live-backend proof, not a games-career pitch.
+What I actually owned:
+
+- **Technical lead** — chose the stack, prototyped the integration, shipped it, stayed the owner after launch. Backend and web (TypeScript, React, Node, Firebase, partner APIs). Unity only as given tools, not from-scratch gameplay.
+- **Client delivery** — a few deep products at a time; tickets, workflows, go-live, and the point of contact after. Architecture was the largest part of a typical week, not account management.
+- **Studio lead** — hiring; project budgets €200k–€3m.
+- **Public funding** — wrote grant proposals; owned paperwork, milestones, and audits (Medienboard, Nordmedia, BMWK and similar).
+- **Studio IP** — business development and publishing on Honig-owned products. Not the role I’m targeting now.
 
 ## Stack
 
