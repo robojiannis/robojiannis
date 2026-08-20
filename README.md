@@ -10,7 +10,7 @@ Most of my code lives in **private** repos (client products and studio IP). This
 
 ## Personal project
 
-**[whether.games](https://whether.games)** — publisher-first private beta: encrypted pitch inbox and fit / weather reports. Next.js, Firebase, Vertex AI, PostHog EU. Built after Honig. Not a second employer.
+**[whether.games](https://whether.games)** — publisher-first private beta: encrypted pitch inbox and fit / weather reports. Next.js, Firebase, Vertex AI, PostHog EU.
 
 ## Honig Studios GmbH
 
@@ -24,7 +24,7 @@ What I actually owned:
 - **Client delivery** — a few deep products at a time; tickets, workflows, go-live, and the point of contact after. Architecture was the largest part of a typical week, not account management.
 - **Studio lead** — hiring; project budgets €200k–€3m.
 - **Public funding** — wrote grant proposals; owned paperwork, milestones, and audits (Medienboard, Nordmedia, BMWK and similar).
-- **Studio IP** — business development and publishing on Honig-owned products. Not the role I’m targeting now.
+- **Studio IP** — business development and publishing on Honig-owned products.
 
 ## Stack
 
