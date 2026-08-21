@@ -1,6 +1,6 @@
 # Jiannis Sotiropoulos
 
-Berlin · German & English · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos)
+Berlin · German, English & Greek · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos)
 
 I choose the stack, prototype the integration, ship it, and stay the technical owner after launch — backend and web, a few deep deliveries rather than a large account book.
 
