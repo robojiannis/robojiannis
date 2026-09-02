@@ -1,35 +1,23 @@
 # Jiannis Sotiropoulos
 
-Berlin · German, English & Greek · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos)
+Berlin · DE / EN / EL · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos/)
 
-I choose the stack, prototype the integration, ship it, and stay the technical owner after launch — backend and web, a few deep deliveries rather than a large account book.
+I like building digital products: choosing the stack, prototyping the integration, shipping it, and still being there after launch.
 
-**Open to** implementation, customer engineering, solutions, and technical delivery roles (Berlin / remote EMEA).
+- I built [whether.games](https://whether.games), an AI system that scores a game pitch against a publisher’s own lens and sends a fit report back.
+- I founded Honig Studios, a Berlin digital production studio. Typically around twelve of us built client products and our own projects, from 2010 until it closed in 2026.
 
-Most of my code lives in **private** repos (client products and studio IP). This page is the public index; I walk through architecture on a call.
+Most of my code lives in private repos — client products and studio IP. I walk through architecture on a call.
 
-## Personal project
+## Education
 
-**[whether.games](https://whether.games)** — publisher-first private beta: encrypted pitch inbox and fit / weather reports. Next.js, Firebase, Vertex AI, PostHog EU.
+- Master of Arts, European Media Studies — University of Potsdam / FH Potsdam, 2008
+- Bachelor, Sociology — Panteion University, Athens, 2005
 
-## Honig Studios GmbH
+## Skills
 
-Founder, Managing Director (sole Geschäftsführer) & Technical Lead · Berlin · 2010–2026 (studio closed)
-
-Typical team ~12. Brands, publishers, and broadcasters were **clients**. Employer was Honig.
-
-What I actually owned:
-
-- **Technical lead** — chose the stack, prototyped the integration, shipped it, stayed the owner after launch. Backend and web (TypeScript, React, Node, Firebase, partner APIs). Unity only as given tools, not from-scratch gameplay.
-- **Client delivery** — a few deep products at a time; tickets, workflows, go-live, and the point of contact after. Architecture was the largest part of a typical week, not account management.
-- **Studio lead** — hiring; project budgets €200k–€3m.
-- **Public funding** — wrote grant proposals; owned paperwork, milestones, and audits (Medienboard, Nordmedia, BMWK and similar).
-- **Studio IP** — business development and publishing on Honig-owned products.
-
-## Stack
-
-TypeScript, React, Node.js, Firebase, analytics, CI/CD, third-party APIs, Google Vertex.
+Strategy · Problem solving · Leadership · Funding · Business development · Technical architecture
 
 ## Contact
 
-[robojiannis@gmail.com](mailto:robojiannis@gmail.com)
+[robojiannis@gmail.com](mailto:robojiannis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos/)
