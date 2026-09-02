@@ -17,7 +17,3 @@ Most of my code lives in private repos — client products and studio IP. I walk
 ## Skills
 
 Strategy · Problem solving · Leadership · Funding · Business development · Technical architecture
-
-## Contact
-
-[robojiannis@gmail.com](mailto:robojiannis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos/)
