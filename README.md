@@ -1,11 +1,11 @@
 # Jiannis Sotiropoulos
 
-Berlin · DE / EN / EL · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos/)
+Berlin · DE / EN / EL · [LinkedIn](https://www.linkedin.com/in/jiannissotiropoulos/) · [Work](https://robojiannis.github.io/)
 
-I like building digital products: choosing the stack, prototyping the integration, shipping it, and still being there after launch.
+I founded and ran Honig Studios in Berlin for sixteen years. What I care about is still the same — I pick the stack, ship the product, and stay after launch.
 
-- I built [whether.games](https://whether.games), an AI system that scores a game pitch against a publisher’s own lens and sends a fit report back.
-- I founded Honig Studios, a Berlin digital production studio. Typically around twelve of us built client products and our own projects, from 2010 until it closed in 2026.
+- I built [whether.games](https://whether.games) alone — an AI tool that scores a game pitch against a publisher’s own lens and sends a fit report back.
+- I founded and ran Honig Studios, a Berlin digital production studio. Typically around twelve of us built client products and our own projects, from 2010 until it closed in 2026.
 
 Most of my code lives in private repos — client products and studio IP. I walk through architecture on a call.
 
@@ -16,4 +16,4 @@ Most of my code lives in private repos — client products and studio IP. I walk
 
 ## Skills
 
-Strategy · Problem solving · Leadership · Funding · Business development · Technical architecture
+Funding · Business development · Technical architecture · Live products · Integrations
