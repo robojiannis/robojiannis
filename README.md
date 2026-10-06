@@ -16,4 +16,5 @@ Most of my code lives in private repos — client products and studio IP.
 
 ## Skills
 
-Funding · Business development · Technical architecture · Live products · Integrations
+Technical architecture · Engineering leadership · Solution architecture · AI tooling · Product strategy · Production Management
+
